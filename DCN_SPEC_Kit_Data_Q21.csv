@@ -1,0 +1,26 @@
+Q21: Which of the following tools are you using in your curation treatments and/or activities? Check all that apply.,
+Response,Count
+Bitcurator,9
+Data Accessionner,0
+FITS,9
+Fixity,12
+BagIt,13
+Identity Finder,2
+Bulk Extractor,3
+JHOVE,9
+Other tool,13
+,
+"Other tool, please briefly describe",
+"Currently aware of JHOVE, Bitcurator and Bulk Extractor. Plan to use in the future.",
+Currently there is a custom built data processor software that we use during ingest. We intend to migrate away from this tool to a community-based tool. We also use a packaging tool developed through the Data Conservancy that creates packages based on a specification that builds on BagIt.,
+Droid,
+"DROID, mkAIP (locally developed)",
+"Exiftool, MediaInfo",
+FileAnalyzer,
+MD5 checksum,
+NARA uses a variety of tools developed in house and procured to support the content and format verification of born-digital records.  These include the Archival Electronic Records Inspection and Control (AERIC) utility for structured data and structured text files.,
+OpenRefine,
+"openRefine, bulkRenameit, xml editor, Fixity is built into the system",
+"PRONOM/DROID, Custom python code",
+The Merritt preservation repository is controlled centrally by CDL. They make use of several tools listed above. CDL created BagIt. ,
+We also have custom import tools we've built.,

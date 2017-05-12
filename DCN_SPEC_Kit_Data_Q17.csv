@@ -1,0 +1,22 @@
+Q17: Does library staff help researchers prepare or curate their data for deposit to external data repositories outside of your institution?,
+Response,Count
+No,17
+Yes,32
+,
+"If yes, which external data repositories do you support most often? Check all that apply.",
+Response,Count
+Figshare,15
+Dryad,9
+Zenodo,4
+Open Science Framework,14
+ICPSR,20
+Harvard’s Dataverse,4
+Genbank,2
+Other,5
+,
+"Other external data repository, please specify:",
+dbGaP (genomics repository),
+journal Dataverse instances,
+KNB,
+Open ICPSR,
+"data.cybercommons.org, local EPSCOR project",

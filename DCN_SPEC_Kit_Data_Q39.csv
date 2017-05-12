@@ -1,0 +1,7 @@
+Q39: Please indicate the importance of these data curation processing and reveiw activities on a scale of 1 to 5 where 1=essential; 2=very important; 3=moderately important; 4=less important; 5=not important.       ,,,,,,,,,,
+Level of Support,Count of File Inventory or Manifest,Count of File renaming,Count of Indexing,Count of Interoperability,Count of Peer-review,Count of Persistent Identifier,Count of Quality Assurance,Count of Restructure,Count of Software Registry,Count of Transcoding
+1,10,2,6,4,0,18,3,1,2,4
+2,5,6,8,3,2,3,9,5,8,9
+3,3,8,5,8,6,1,6,8,5,3
+4,2,4,2,4,6,0,2,5,5,4
+5,2,2,1,3,8,0,2,3,2,2

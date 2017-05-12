@@ -1,0 +1,35 @@
+Q9: Which of the following platforms are you using for your data repository? Check all that apply.,
+Response,Count
+DSpace,22
+Digital Commons/BePress,5
+Fedora/Hydra,10
+iRODS,1
+Islandora,7
+Dataverse (hosted),4
+Dataverse (local installation),7
+Ckan/Dkan,0
+Custom solution,7
+Other platform,10
+ ,
+Please specify the other platform:,
+"Cuadra Star for the other platform (disciplinary-based)    Plus, our Islandora instance marries with Fedora Commons",
+"Dataverse currently provides access to the data but the data are stored and archived within a local system. Once we move to Fedora 4, we will evaluate whether we need to continue using Dataverse, particularly since we are also planning to adopt OSF. We are currently integrating Fedora into OSF.",
+ePrints,
+"Geoblacklight, OSF for Institutions, ArchiveIT    RStar (homegrown)  DataBrary (homegrown)",
+HUBzero with customized extensions,
+Islandora/Fedora,
+Open Science Framework,
+Rosetta,
+SobekCM ,
+"We are transitioning now from Islandora to the university's instance of Dataverse. For now, both data and metadata are held in both repositories, but this will change. ",
+,
+"If you selected Custom solution above, please briefly describe it.",
+http://hubzero.org,
+Hybrid DSpace and Apache platform.,
+"Maria-based, CSS Front-end",
+Our current institutional repository for data is hosted in DSpace. We are in the process of developing a custom Islandora-based solution that will replace DSpace and a BePress instance used for more traditional repository documents.,
+"RStar is our preservation repository, primarily for libraries collections and selected faculty driven products.   DataBrary is a video preservation and science platform for the behavioral sciences, developed in partnership with and NYU Psychology professor and colleagues group",
+Ruby on Rails app that integrates directly with our preservation system,
+"SobekCM is the software engine which powers  the University of Florida Digital Collections (UFDC), Digital Library of the Caribbean (dLOC), and many other digital repositories.    SobekCM allows users to discover online resources via semantic and full-text searches, as well as a variety of different browse mechanisms. ",
+The local institutional repository is DSpace. The shared systemwide data repository (DASH) is a custom middleware interface which allows researchers to deposit to the CDL Merritt preservation repository. ,
+We host some faculty-created datasets with custom interfaces on virtual machines for specific uses.,

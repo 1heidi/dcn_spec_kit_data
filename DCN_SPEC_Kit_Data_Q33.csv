@@ -1,0 +1,7 @@
+"Q33: Please indicate your institution's level of support for these data curation preservation activities on a scale of 1 to 5 where 1=currently providing; 2=will provide in the near future; 3=would like to provide, but unable to at this time; 4=no interest/desire to provide; 5=unsure.        ",,,,,,,,,
+Level of Support,Count of Cease Data Curation,Count of Emulation,Count of File Audit,Count of Migration,Count of Repository Certification,Count of Secure Storage,Count of Succession Planning,Count of Technology Monitoring and Refresh,Count of Versioning
+1,13,1,21,14,3,39,14,25,24
+2,12,6,7,9,6,2,6,3,3
+3,14,20,15,16,24,3,18,13,17
+4,4,14,2,7,5,1,3,0,0
+5,5,7,3,2,10,3,6,7,4

@@ -1,0 +1,7 @@
+Q38: Please indicate the importance of these data curation processing and reveiw activities on a scale of 1 to 5 where 1=essential; 2=very important; 3=moderately important; 4=less important; 5=not important.,,,,,,,,
+Level of Support,Count of Code Review,Count of Arrangement and Description,Count of Contextualize,Count of Conversion (Analog),Count of Curation Log,Count of Data Cleaning,Count of Deidentification,Count of File Format Transformations
+1,3,4,8,4,9,2,10,10
+2,6,8,8,4,5,6,3,5
+3,6,8,5,6,4,6,6,5
+4,3,3,1,5,1,4,1,3
+5,5,0,1,4,3,5,3,0

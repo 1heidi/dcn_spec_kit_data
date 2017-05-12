@@ -1,0 +1,22 @@
+Q14: What metadata schema are you primarily using for discovery of data?,
+Response,Count
+Citation metadata compiled by Dataverse software.,1
+"Consistent with Dataverse 4.0; for general discovery, Dublin Core Terms; DataCite 3.1; Dataverse JSON (for API) used. ",1
+DataCite,1
+DD1 - Dataverse; MODS - Islandora,1
+DDI,3
+DDI and Dublin Core,1
+"DDI, DC",1
+"DDI, DC, ISO 19115",1
+Dublin Core,18
+Dublin Core and MODS,1
+"Geoblacklight, DC (modified), Mods, MARC, EAD",1
+"Local defined schemas, MODS, VRACore4",1
+METS/MODS; DUBLIN CORE (Zenodo),1
+Modified Dublin Core,3
+Modified version of DDI and DataCite within ePrints.,1
+MODS,3
+"There are different scopes for discovery (structured metadata exposed for harvest, Linked Data, SEO for external search engines such as Google, locally indexed metadata for search and browse, etc) but the most applicable schemata are qualified Dublin Core and DataCite.",1
+Very basic Dublin Core. Researchers add their own metadata upon deposit. No element is required. ,1
+"We have a custom developed schema that incorporates elements from other schema but also includes specific elements that emphasize preservation of data. Our DMS consultants work with researchers to fill out a document or template that outlines these metadata elements. Once we move to OSF/Fedora, we will hopefully work with the community to identify a common set of metadata elements that can be incorporated into OSF for more automated procedures. ",1
+We use a custom schema somewhat based on DataCite but expressed in MODS,1

@@ -1,0 +1,20 @@
+Q24: Please enter the number of years your service will preserve the curated data.,,
+Response,Count,Notes
+0,1,Treated as a comment.
+5,4,
+7,2,
+10,3,
+20,1,
+25,1,
+>=5,1,
+>5,1,
+10-12,1,
+10-20+,1,
+5+ years,1,
+at least 5,1,
+forever,1,
+"indefinately, for IR",1,
+indefinitely ,6,
+Minimum of 10 years,1,
+permanent,1,
+TBD,2,"One treated as an ""indefinitely"" because of comment."

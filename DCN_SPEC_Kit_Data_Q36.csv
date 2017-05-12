@@ -1,0 +1,7 @@
+Q36: Please indicate the importance of these data curation ingest activities on a scale of 1 to 5 where 1=essential; 2=very important; 3=moderately important; 4=less important; 5=not important.,,,,,,
+Level of Support,Count of Authentication,Count of Chain of custody,Count of Deposit agreement,Count of Documentation,Count of File validation,Count of Metadata
+1,10,6,14,17,8,18
+2,5,9,8,3,9,6
+3,5,4,2,3,5,0
+4,3,3,0,1,1,0
+5,1,2,0,0,1,0

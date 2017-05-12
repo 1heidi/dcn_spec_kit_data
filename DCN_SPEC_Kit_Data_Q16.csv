@@ -1,0 +1,28 @@
+Q16: Are there individual file size upload limits for your data repository platform?,
+Response,Count
+No,10
+Yes,35
+,
+"If yes, please specify the file size limit.",
+Response,Count
+100 MB per file,1
+200MB,1
+1 GB per item,1
+2 GB,14
+2GB per file,2
+2 GB limit for dataset,1
+"2Gb for browser-based uploads, no size limit on the backend",1
+2GB per file for the self-deposit institutional repository with the option to upload more with assistance from library staff. ,1
+2GB per file per Dataverse policy with option to request more,1
+~5GB,1
+50 GB maximum per file,1
+500 MB through self-deposit; mediated deposit doesn't have an explicit limit although we aim to give each researcher 2 TB of space.,1
+5GB unmediated; higher limits mediated,1
+Dataverse - 2GB; university Library  - no limit,1
+For self deposit we say 2G - in practice it is whatever,1
+I believe DSpace has a 2 GB limit; we are discussing imposing more stringent limits as we explore expanding services.,1
+"No specified limit from Digital Commons, but there is an unspecified practical limit imposed by the HTTP protocol used for file uploads",1
+Self-deposit: 100 MB | system limit =~ 1TB,1
+"There is no explicit file size limit; however, we encourage users to keep file sizes below 1-2G because files larger than this often get hung up when accessing using HTTP, which is how most users access files in our repository.",1
+Variable,1
+We meet with each researcher to determine the amount of data. Large data sets above 1TB need special consideration.,1

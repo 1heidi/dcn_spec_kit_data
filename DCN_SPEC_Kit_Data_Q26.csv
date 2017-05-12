@@ -1,0 +1,18 @@
+Q26: What metadata schema are you using for the preservation of data? Check all that apply.,
+Response,Count
+MODS,12
+METS,10
+PREMIS,12
+Other schema,10
+,
+"Other schema, please specify",
+Dublin Core,
+Dublin Core. We are not using PREMIS to record preservation events at the moment. It is a goal.,
+FOXML,
+NARA uses the Electronic Records Archives (ERA) to preserve its archival electronic records holdings. ERA has a metadata schema known as the ACE,
+None.,
+not sure,
+Not sure which schema is used by host Dataverse,
+Rosetta DNX; based on PREMIS,
+We also use FGDC and can accommodate specific standards if the loss of information is too great with the mapping to MODS,
+Work underway to standardize,

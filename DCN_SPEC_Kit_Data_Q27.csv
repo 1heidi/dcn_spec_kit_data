@@ -1,0 +1,34 @@
+Q27: How are you backing up the data sets currently curated? Check all that apply.,
+Response,Count
+"Cloud Services (AWS, DropBox, Box, Duraspace, etc.)",10
+Local LOCKSS,2
+CLOCKSS,0
+DPN,6
+Portico,0
+Other service,24
+,
+"Other service, please briefly describe",
+APTrust,
+British Columbia cloud service (EduCloud). ,
+Campus IT,
+"Currently, an ISILON storage system, duplicated across 2 locations, with a 3rd tape backup offsite. Looking into integration with AWS.",
+"Custom blend of onsite and offsite storage including services from Comvault, datasafe and Iron Mountain.",
+Data-PASS partners per Dataverse. ,
+i dont know,
+"In addition to MetaArchive, we utilize RAID, UPS, temperature-monitoring software, anti-virus, and auditing and hardening software as well as multiple layers of backup: Bacula for daily incremental, weekly differential, and monthly full local backups; Dirvish for daily snapshots that are stored in a different data center; and twice-yearly full system dumps to tape using Symantec NetBackup. This is documented internally in our disaster recovery plan.",
+"IRODS to manage replication and backup with three copies of each file, including one tape storage",
+Local and remote disk-to-disk back up. ,
+Local curated data (e.g. Dspace) are backed up through UNM's campus IT backup service. Some content is also locally backed up onto RAID configured external hard drives. ,
+"local tape archive, consortial storage cloud (OLRC)",
+LOCKSS enabled at host Dataverse instance.,
+Multiple data centres,
+NARA uses the Electronic Records Archives (ERA) to preserve its archival electronic records holdings.  Backups are made to LTO tape.,
+Off-site tape mirror and AP Trust.,
+Offsite LTOT backup system,
+see links to backup policy and Ontario Library Research Cloud,
+Snapshots and we use a tool (I forgot the name). We are also looking into cloud services.,
+Tape backup with remote duplication and DAITSS,
+tape!,
+Triple Offsite backups to tape,
+two local copies in different buildings on campus and a third copy in Amazon Glacier,
+We are currently using local storage/backup with offsite copies. But we are evaluating third party possibilities including those mentioned on this list (and also APTrust). ,

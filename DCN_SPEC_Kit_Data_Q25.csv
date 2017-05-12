@@ -1,0 +1,29 @@
+Q25: Which of the following platforms are you using for your archiving/preservation solution/management? Check all that apply.,
+Response,Count
+Rosetta,2
+Archivematica,5
+Preservica,0
+Duraspace,7
+Custom solution,9
+Other,19
+,
+"Other platform, please specify",
+APTrust,
+"Archivespace, other solutions",
+"Consortial custom preservation pipeline is under construction using Archivematica, Globus Publication, and customized code. Files will originate at individual Canadian repositories, proceed through the pipeline, with preservation copies held at ComputeCanada.",
+"DAITSS (Dark Archive in the Sunshine State) coordinated by the statewide consortium, FALSC.",
+Dataverse,
+DPN,
+DSpace,
+"Dspace, LibNOVA, Digital Preservation Network (Duraspace serves as an ingest point into DPN)",
+Fedora,
+Hydra Fedora,
+just the base ePrints IR platform,
+LOCKSS enabled at host Dataverse instance.,
+"MetaArchive, which provides governance and organizational sustainability in addition to a LOCKSS network that maintains fixity and seven geographically dispersed copies of our archived datasets.",
+NARA uses the Electronic Records Archives (ERA) to preserve its archival electronic records holdings.,
+Our Fedora repository provides preservation of all data objects,
+see link to preservation policy,
+Swift Open Stack,
+"We have the fedora/islandora which has preservation features such as fixity, checksums. We also have a disaster recovery solution.",
+Work underway now to redesign hydra applications preservation services and integrating archivematica into preservation workflow.,

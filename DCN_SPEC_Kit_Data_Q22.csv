@@ -1,0 +1,14 @@
+Q22: How does your service provide persistent identifiers for data? Check all that apply.,
+Response,Count
+Datacite DOIs,25
+PURLs,5
+Handles,26
+ARKs,4
+Crossref DOIs,9
+Other identifier,4
+,
+"Other identifier, please specify:",
+Dataverse DOI,
+EZID to create DOIs; we also support persistent URLs but they're not purls or handles,
+We have a URL policy for the university digital library,
+"We just got crossref DOIs, so we can issue them but have not done this yet",

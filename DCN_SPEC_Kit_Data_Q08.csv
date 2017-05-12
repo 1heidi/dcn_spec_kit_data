@@ -1,0 +1,16 @@
+"Q8: Which of the following statements best describes your repository service for data?  Other service, please briefly describe.",
+Response,Count
+A disciplinary repository that accepts data,1
+A stand-alone data repository,8
+An institutional repository that accepts data,29
+Other service,8
+,
+Other service responses:,
+"We are mostly reliant on centrally provided services from the California Digital Library. We have an institutional repository which accepts data locally (est. 2010), but are transitioning to the UC-wide DASH stand-alone data sharing repository (est. 2013)",
+"In 2013, UConn Libraries launched the Connecticut Digital Archive, a program that provides long-term preservation services to Connecticut based non-profits. Essentially, UConn Libraries is a customer of itself and uses this technology to support a site that accepts research data.",
+We are currently using a stand-alone data archive but we are migrating to Fedora 4 for both institutional repository and data archive services.,
+"Rather had check boxes: we have several repositories, one for ETDs that technically meets the definition of an IR, but we do not market it as such.  We publish a significant disciplinary index and associated repository.",
+Self-deposit institutional repository + 2 format specific repositories for large collections of images or AV content,
+"Our data collection is quite small; we've accepted a couple of deposits for researchers who needed a place to share data, and have also run a small pilot to test expanding the service, something we are still investigating.",
+A constellation of platforms and services that support data curation,
+a consortial instance of Dataverse local preservation repository,

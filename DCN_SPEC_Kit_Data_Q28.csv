@@ -1,0 +1,7 @@
+"Q28: Please indicate your institution's level of support for these data curation ingest activities on a scale of 1 to 5 where 1=currently providing; 2=will provide in the near future; 3=would like to provide, but unable to at this time; 4=no interest/desire to provide; 5=unsure.",,,,,,
+Level of Support,Count of Authentication,Count of Chain of custody,Count of Deposit agreement,Count of Documentation,Count of File validation,Count of Metadata
+1,36,22,38,36,32,43
+2,1,2,5,3,3,1
+3,8,16,5,8,12,4
+4,2,3,1,0,0,0
+5,2,6,0,2,2,1
